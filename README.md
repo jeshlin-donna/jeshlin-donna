@@ -44,6 +44,12 @@ Indian Institute of Technology, Madras, India
     <a href="https://www.mysql.com/" target="_blank" title ="SQL"> <img
             src="https://github.com/jeshlin-donna/jeshlin_donna/blob/main/MySQL.jpg"
             alt="SQL" width="40" height="40" /> </a>
+    <a href="https://www.tableau.com/" target="_blank" title ="tableau"> <img
+            src="https://github.com/jeshlin-donna/jeshlin_donna/blob/main/Tableau.jpg"
+            alt="tableau" width="40" height="40" /> </a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" title ="flask"> <img
+            src="https://github.com/jeshlin-donna/jeshlin_donna/blob/main/flask.jfif"
+            alt="flask" width="40" height="40" /> </a>
 </p> 
 
 ## Projects
