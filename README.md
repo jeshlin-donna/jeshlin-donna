@@ -1,7 +1,7 @@
 # Jeshlin Donna                                                                     
 2nd year, B.Tech Mettalurgical and Materials Engineering                                                 
 Indian Institute of Technology, Madras, India                                       
-[E-mail](mailto:jeshlindonna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeshlindonna/) | [Facebook](https://www.facebook.com/jeshlin.donna/) | [Instagram](https://www.instagram.com/jeshlindonna/) | [GitHub](https://github.com/sudip-mondal-2002)
+[E-mail](mailto:jeshlindonna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeshlindonna/) | [Facebook](https://www.facebook.com/jeshlin.donna/) | [Instagram](https://www.instagram.com/jeshlindonna/) | [GitHub](https://github.com/jeshlin-donna/jeshlin-donna)
 ## Skills
 
 * Machine Learning, Deep Learning, Data Science
