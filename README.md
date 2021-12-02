@@ -3,11 +3,6 @@
 Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:jeshlindonna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeshlindonna/) | [Facebook](https://www.facebook.com/jeshlin.donna/) | [Instagram](https://www.instagram.com/jeshlindonna/) | [GitHub](https://github.com/sudip-mondal-2002)
 ## Skills
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-mondal-2002&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
-    </a>
-</div>
 
 * Machine Learning, Deep Learning, Data Science
 * Business Analytics
@@ -22,10 +17,6 @@ Indian Institute of Technology, Madras, India
 
 ## Tools and Technologies
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
- 
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
