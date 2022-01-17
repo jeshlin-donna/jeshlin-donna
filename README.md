@@ -2,8 +2,6 @@
 2nd year, B.Tech Mettalurgical and Materials Engineering                                                 
 Indian Institute of Technology, Madras, India                                       
 [E-mail](mailto:jeshlindonna@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeshlindonna/) | [Facebook](https://www.facebook.com/jeshlin.donna/) | [Instagram](https://www.instagram.com/jeshlindonna/) | [GitHub](https://github.com/jeshlin-donna)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jeshlindonna" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jeshlindonna?trk=profile-badge">Jeshlin Donna J</a></div>
               
 ## Skills
 
