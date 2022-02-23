@@ -58,9 +58,8 @@ Indian Institute of Technology, Madras, India
    * Deep Learning Project of Video Classification and Text-To-Speech. 
    * Involved real-time video captioning and conversion of the captions to audio speech. 
    * Focusses on capabilities for the visually impaired
-* HiChat: Chatbot using SequenceToSequence Model
-   * This is a simple platform to run python codes on android.
-   * Learnt about integrating python to a native android project written in java.
+* Invoice Parser: End-to-End Model for Information extraction from invoices
+   * Was built based on Representation Learning(RELIE)
 * Multimodal Attention for Video Captioning
    * Implementing the Multimodal-Attention LSTM Networks for Video Captioning Research Paper.
 * Anime Face Generator
